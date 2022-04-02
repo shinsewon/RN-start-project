@@ -7,7 +7,7 @@ function Content() {
   return (
     <SizedComponent style={{backgroundColor: '#45aaf2', opacity: 0.8, flex: 1}}>
       <FlexView flexSet={['center', 'center']}>
-        <TextComponent color="#fff">Content</TextComponent>
+        <TextComponent color="#fff">Content 브랜치 테스트</TextComponent>
       </FlexView>
     </SizedComponent>
   );
